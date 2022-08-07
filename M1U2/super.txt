@@ -2,3 +2,8 @@ pan
 galletitas
 pan
 verduras
+manzana 
+banana 
+pera
+palta
+uva
